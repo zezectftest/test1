@@ -1,0 +1,6 @@
+[submodule "test22"]
+	path = test22
+	url = https://github.com/zezectftest/test2.git
+[submodule "test2"]
+	path = test2
+	url = https://github.com/zezectftest/test2.git
